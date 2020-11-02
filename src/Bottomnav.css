@@ -1,0 +1,17 @@
+.bottom {
+    overflow: hidden;
+    background-color: #060b26;
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+}
+
+.homeicon {
+    color: blanchedalmond;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    padding: 20px;
+}
