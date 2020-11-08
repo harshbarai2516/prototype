@@ -1,0 +1,16 @@
+.postbox {
+    width: 50%;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+}
+
+.post {
+    width: 100%;
+    height: 250px;
+}
+
+.posttext {
+    margin-left: 7px;
+}
