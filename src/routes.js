@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from './hoc/Layout'
-import { BrowserRouter as Router, Link, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Postmain from './components/Postmain';
 import Saveditems from './components/Saveditems';
 import Profile from './components/Profile';

@@ -8,7 +8,6 @@ import BaseRouter from "./routes.js";
 export default function App() {
   return (
     <>
-      {/* <Home /> */}
       <BaseRouter />
      </>
 

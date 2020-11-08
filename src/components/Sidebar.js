@@ -1,5 +1,5 @@
 import React from "react";
-import "./Test.css";
+import "./Sidebar.css";
 import { Link } from 'react-router-dom';
 import { BrowserRouter as Router } from 'react-router-dom';
 import SidebarData from "./SidebarData.js";
@@ -9,7 +9,7 @@ import  { useState } from 'react';
 import InstagramIcon from '@material-ui/icons/Instagram';
 
 
-function Test() {
+function Sidebar() {
 
     const [sidebar, setSidebar] = useState(false);
 
@@ -58,4 +58,4 @@ function Test() {
   );
 }
 
-export default Test;
+export default Sidebar;

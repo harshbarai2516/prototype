@@ -1,11 +1,11 @@
 import React from 'react'
 import Bottomnav from '../components/Bottomnav'
-import Test from '../components/Test'
+import Sidebar from '../components/Sidebar'
 
 function Layout(props) {
     return (
         <div>
-            <Test />
+            <Sidebar />
                {props.children} 
             <Bottomnav />
         </div>
