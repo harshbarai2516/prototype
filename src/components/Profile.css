@@ -1,0 +1,36 @@
+.profile {
+    background-color: orange;
+    height: 100vh;
+    width: 100%;
+}
+
+.image {
+    border-radius: 30%;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin-left: 15px;
+    display: flex;
+}
+
+.imagea {
+    height: 100%;
+    width: 100%;
+    border-radius: 30%;
+}
+
+.profilebox {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+.innerimage {
+    margin-top: 10px;
+}
+
+.points {
+    background-color: blue;
+    height: 50px;
+    width: 125px;
+}
